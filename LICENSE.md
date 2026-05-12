@@ -2,7 +2,7 @@
 
 **Copyright (c) 2026 Shadowfang. All rights reserved.**
 
-This license agreement ("Agreement") governs your use of the **Death Sound Plugin** (the "Plugin"). By downloading, installing, copying, accessing, or using the Plugin, you agree to be bound by this Agreement. If you do not agree, you must not use the Plugin.
+This license agreement governs your use of any Plugin by Shadowfang. By downloading, installing, copying, accessing, or using the Plugin, you agree to be bound by this Agreement. If you do not agree, you must not use the Plugin.
 
 ## 1. License Grant
 
@@ -75,7 +75,7 @@ Unauthorized copying, distribution, modification beyond permitted configuration 
 
 For permissions or licensing inquiries, contact:
 
-- **Discord:** RealShadowfang
+- **Discord:** realshadowfangyt
 
 ---
 
